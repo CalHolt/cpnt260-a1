@@ -7,10 +7,6 @@ main {
   line-height: 1.5;
 }
 
-section {
-  padding: 2rem;
-}
-
   /* Header Fonts*/
 h1, h2 {
   font-family: 'Orbitron', Helvetica, sans-serif sans-serif;
@@ -25,10 +21,10 @@ ul {
   list-style: circle;
 }
 
-/*Link color*/
+/*Link Attributes*/
 a {
   color: blue;
-   
+
   text-decoration: none;
 }
 
@@ -37,7 +33,7 @@ a:hover {
   background-color: #00d200;
 }
 
-  /*Floating Image*/
+  /*Random Image*/
 .random {
   float: right;
   display: block;
