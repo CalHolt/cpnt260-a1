@@ -1,0 +1,46 @@
+main {
+  text-align: center;
+  margin: auto;
+  
+  max-width: 85ch;
+  font-size: 22px;
+  line-height: 1.5;
+}
+
+section {
+  padding: 2rem;
+}
+
+  /* Header Fonts*/
+h1, h2 {
+  font-family: 'Orbitron', Helvetica, sans-serif sans-serif;
+}
+
+p, li {
+  font-family: 'IBM Plex Serif', 'Times New Roman', Times, serif;
+}
+
+  /*List Bullet Point Style*/
+ul {
+  list-style: circle;
+}
+
+/*Link color*/
+a {
+  color: blue; 
+  text-decoration: none;
+}
+
+/*Link hovering*/
+a:hover {
+  background-color: #00d200;
+}
+
+  /*Floating Image*/
+.random {
+  float: right;
+  display: block;
+  padding: 1rem;
+  
+  border-radius: 50%;
+}
