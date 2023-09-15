@@ -27,7 +27,8 @@ ul {
 
 /*Link color*/
 a {
-  color: blue; 
+  color: blue;
+   
   text-decoration: none;
 }
 
@@ -40,8 +41,8 @@ a:hover {
 .random {
   float: right;
   display: block;
+
   padding: 1rem;
-  
   border-radius: 50%;
 }
 
